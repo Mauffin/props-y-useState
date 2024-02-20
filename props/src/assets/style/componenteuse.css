@@ -1,0 +1,36 @@
+
+
+
+.colorcaja{
+  height: 200px;
+  width: 200px;
+  border: 1px solid black;
+  
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+ 
+ 
+}
+
+.semaforo p{
+  color: black;
+  font-size: xx-large;
+}
+.semaforo{
+  height: 200px;
+  width: 200px;
+  border: 1 solid black;
+  border-radius: 50%;
+}
+
+
+.containersemaforo{
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+
+}
